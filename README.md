@@ -7,6 +7,7 @@
 * https://viso.ai/deep-learning/deep-face-recognition/
 * https://www.geeksforgeeks.org/python-multiple-face-recognition-using-dlib/?ref=rp
 * https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23
+
 --> Face Liveness Detection
 * https://towardsdatascience.com/real-time-face-liveness-detection-with-python-keras-and-opencv-c35dc70dafd3
 * https://arxiv.org/ftp/arxiv/papers/1903/1903.05369.pdf
